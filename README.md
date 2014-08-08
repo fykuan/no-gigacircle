@@ -8,6 +8,7 @@ no-giga-circle
 ========
 Firefox 請先安裝 Greasemonkey
 
+然後請到 [這裡](https://openuserjs.org/scripts/fykuan/No_giga-circle) 安裝
 
 阻擋的網站列表
 ==============
