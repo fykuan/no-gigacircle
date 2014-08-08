@@ -1,7 +1,7 @@
 no-giga-circle
 ============
 
-從[旺中守門員](https://chrome.google.com/webstore/detail/旺中守門員/jgoljbdcdakinkigihjocpniamcgofmm) 的 [Greasemonkey版](https://github.com/yhchan/no-want-want) 修改而來，我真的很不想看到 gigacircle 的廢文啊
+從 [旺中守門員](https://chrome.google.com/webstore/detail/旺中守門員/jgoljbdcdakinkigihjocpniamcgofmm) 的 [Greasemonkey版](https://github.com/yhchan/no-want-want) 修改而來，我真的很不想看到 gigacircle 的廢文啊
 
 
 安裝方法
